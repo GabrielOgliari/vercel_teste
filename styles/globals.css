@@ -87,6 +87,6 @@ body {
 
 @layer utilities {
   .border-border {
-    @apply border; /* ou defina o estilo desejado */
+
   }
 }
