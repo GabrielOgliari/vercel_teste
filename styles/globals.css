@@ -90,3 +90,9 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  .border-border {
+    @apply border; /* ou defina o estilo desejado */
+  }
+}
